@@ -3,8 +3,6 @@
 
 NumPy is a **fundamental library** in Python used for fast numerical computations. In Generative AI, it plays a crucial role because models work with large multi-dimensional data like images, embeddings, or tensors, and NumPy makes it possible to process this data efficiently.
 
-##  NumPy in Generative AI: Visual Overview
-
 ![NumPy for Generative AI - Visual Diagram](https://screendy-cdn.fra1.cdn.digitaloceanspaces.com/platfrom-v2/_files/file_1761605617962_MermaidChartVisualDiagramsOct272025.png)
 
 ### Why NumPy is essential for Generative AI
